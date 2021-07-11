@@ -34,6 +34,65 @@ next debug point : F8
 
 short cut to evalute the expression : ctr+shift+i
 
+
+write a program to print * in right angle traingle shape
+
+
+
+star and number patterns
+
+
+
+pattern 1
+*
+**
+***
+****
+*****
+******
+
+pattern 2
+
+1
+12
+123
+1234
+12345
+
+pattern 3
+
+1
+22
+333
+4444
+55555
+
+
+
+write a program to find wether given number is prime number
+
+write a program to find the prime numbers between 1 to 10
+
+,2,3,5,7
+
+
+write a program to reverse a number
+
+
+543
+
+write a program to verify whether given number is palindrome or not
+
+write a program to print fibonacci series
+0 1 1 2 3 5 8 13 21 34
+
+write a program to find factorial of number
+
+5!=5*4*3*2*1
+
+write a program to find
+
+sum of digits in an integer
 what is the use == operator
 
 
