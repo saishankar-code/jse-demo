@@ -34,6 +34,27 @@ next debug point : F8
 
 short cut to evalute the expression : ctr+shift+i
 
+Sai :
+Cofee
+cofeeid;
+cofeeName
+descrption
+
+
+Divya
+Student
+sid,
+Sname,
+branch,
+section
+
+
+Drug
+drugid,
+drugname,
+lab,
+formacyName
+
 
 write a program to print * in right angle traingle shape
 
