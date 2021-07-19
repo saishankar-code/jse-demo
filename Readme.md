@@ -34,6 +34,10 @@ next debug point : F8
 
 short cut to evalute the expression : ctr+shift+i
 
+
+
+
+
 Sai :
 Cofee
 cofeeid;
@@ -120,3 +124,18 @@ what is the use == operator
 exp?true:false
 
 what is the use of continue statement
+
+
+
+is java support pass by value or pass by refernce
+
+why java only supprting pass by value why not pass by refrence
+
+cloning
+
+types of cloning
+1.shallow cloning
+
+deep cloning
+
+what is a marker interface
