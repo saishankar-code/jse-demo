@@ -16,7 +16,7 @@ public class BaseInheritanceDemo {
 		//System.out.println(child.getParentName());
 		//System.out.println(child.getId());
 		
-		//create an child objectby holding with super class refrence
+		//create an child object by holding with super class refrence 
 		
 		Parent parent = new Child1(2,"child1",1,"parent");
 		System.out.println(parent);

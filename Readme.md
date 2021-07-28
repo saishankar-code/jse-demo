@@ -139,3 +139,17 @@ types of cloning
 deep cloning
 
 what is a marker interface
+
+
+what is encapsulation
+----------------------
+
+Abstract class
+
+Inheritance
+
+
+
+
+
+
